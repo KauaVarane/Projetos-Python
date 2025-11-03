@@ -18,4 +18,4 @@ Organização:
   
 Objetivo:
 
-- Este repositório tem como objetivo documentar e organizar os exercícios realizados no primeiro semestre, servindo como referência    para estudos futuros em Python e lógica de programação.
+- Este repositório tem como objetivo documentar e organizar os exercícios realizados, servindo como referência para estudos futuros em Python e lógica de programação.
