@@ -1,6 +1,5 @@
-# Exercícios desenvolvidos em Python durante o 1 Semestre de ADS (FATEC)
-Exercícios de Python – 1º Semestre ADS (FATEC)
-Este repositório contém os exercícios de Python desenvolvidos durante o primeiro semestre do curso de Análise e Desenvolvimento de Sistemas (ADS) na FATEC. Todos os códigos foram implementados utilizando Google Colab, permitindo execução online sem necessidade de instalação local do Python.
+# Projetos desenvolvidos em Python
+Este repositório contém os exercícios de Python.Todos os códigos foram implementados utilizando Google Colab, permitindo execução online sem necessidade de instalação local do Python.
 Conteúdo
 
 Estruturas básicas:
@@ -13,8 +12,6 @@ Estruturas básicas:
 Organização:
 
 - exercícios em arquivo .ipynb no Colab
-  
-Como usar:
 
 - Abra o arquivo no Google Colab
 - Execute as células para ver o resultado
